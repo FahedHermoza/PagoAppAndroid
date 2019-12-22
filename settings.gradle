@@ -1,2 +1,2 @@
-include ':app', ':visanet-lib-release', ':TrustDefender-5.0-96'
+include ':app', ':visanet-lib-release', ':TrustDefender-5.0-96', ':visanet-lib-lite-v2.1.0'
 
